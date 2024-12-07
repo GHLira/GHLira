@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c58f488b-b938-4d76-8777-d58feaccb456"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/fddd614f-61c4-453c-840a-7517d03503af"/>
 <br>
 <br>
 
@@ -48,3 +48,12 @@
 <img aling="left" height="80" width="80" src="https://github.com/user-attachments/assets/5a413032-7229-43a5-881b-8ac8569cd50a">
 
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 aling="left"> Studying in this moment: </h2>
+
