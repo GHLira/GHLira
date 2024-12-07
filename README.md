@@ -57,3 +57,27 @@
 
 <h2 aling="left"> Studying in this moment: </h2>
 
+<div align="left">
+
+<img aling="left" height="84" width="84" src="https://github.com/user-attachments/assets/ff6b2a2b-eb5a-48fa-b798-889df6a14398">
+
+<img aling="left" height="80" width="80" src="https://github.com/user-attachments/assets/d10dc8fc-8f4d-4c81-b087-512a8c11f60b">
+
+<img aling="left" height="80" width="80" src="https://github.com/user-attachments/assets/5a413032-7229-43a5-881b-8ac8569cd50a">
+
+</div>
+
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="center"><b>Visitors Count</b></p>
+
+<p align="center"><img aling="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGHLira&s=50&c=002aff&bg=00000000&no=2&ff=digi&tb=Visitante%3A+&ta=" alt="visits"></p>
+
+<br>
+
+</div>
