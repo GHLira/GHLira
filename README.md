@@ -70,8 +70,13 @@
 
 <p align="center"><b>Visitors Count</b></p>
 
-<p align="center"><img aling="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGHLira&s=50&c=002aff&bg=00000000&no=2&ff=digi&tb=Visitante%3A+&ta=" alt="visits"></p>
+<p align="center"><img aling="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGHLira&s=50&c=ff0000&bg=00000000&no=2&ff=digi&tb=Visitante%3A+&ta=" alt="visits"></p>
 
 <br>
 
 </div>
+
+<br>
+<br>
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/21ce3bc4-3c75-4476-9565-1ee729759d17"/>
